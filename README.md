@@ -1,1 +1,0 @@
-# bothead-collection-website

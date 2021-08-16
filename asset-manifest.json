@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1833e261.chunk.css",
-    "main.js": "/static/js/main.d24b76bc.chunk.js",
-    "main.js.map": "/static/js/main.d24b76bc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d84d1856.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d84d1856.js.map",
-    "static/js/2.e2debf9b.chunk.js": "/static/js/2.e2debf9b.chunk.js",
-    "static/js/2.e2debf9b.chunk.js.map": "/static/js/2.e2debf9b.chunk.js.map",
-    "static/js/3.859752af.chunk.js": "/static/js/3.859752af.chunk.js",
-    "static/js/3.859752af.chunk.js.map": "/static/js/3.859752af.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1833e261.chunk.css.map": "/static/css/main.1833e261.chunk.css.map",
-    "static/js/2.e2debf9b.chunk.js.LICENSE.txt": "/static/js/2.e2debf9b.chunk.js.LICENSE.txt",
-    "static/media/5.ed8741cf.png": "/static/media/5.ed8741cf.png"
+    "main.css": "./bothead-collection-website/static/css/main.1833e261.chunk.css",
+    "main.js": "./bothead-collection-website/static/js/main.d24b76bc.chunk.js",
+    "main.js.map": "./bothead-collection-website/static/js/main.d24b76bc.chunk.js.map",
+    "runtime-main.js": "./bothead-collection-website/static/js/runtime-main.85b99639.js",
+    "runtime-main.js.map": "./bothead-collection-website/static/js/runtime-main.85b99639.js.map",
+    "static/js/2.e2debf9b.chunk.js": "./bothead-collection-website/static/js/2.e2debf9b.chunk.js",
+    "static/js/2.e2debf9b.chunk.js.map": "./bothead-collection-website/static/js/2.e2debf9b.chunk.js.map",
+    "static/js/3.859752af.chunk.js": "./bothead-collection-website/static/js/3.859752af.chunk.js",
+    "static/js/3.859752af.chunk.js.map": "./bothead-collection-website/static/js/3.859752af.chunk.js.map",
+    "index.html": "./bothead-collection-website/index.html",
+    "static/css/main.1833e261.chunk.css.map": "./bothead-collection-website/static/css/main.1833e261.chunk.css.map",
+    "static/js/2.e2debf9b.chunk.js.LICENSE.txt": "./bothead-collection-website/static/js/2.e2debf9b.chunk.js.LICENSE.txt",
+    "static/media/5.ed8741cf.png": "./bothead-collection-website/static/media/5.ed8741cf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d84d1856.js",
+    "static/js/runtime-main.85b99639.js",
     "static/js/2.e2debf9b.chunk.js",
     "static/css/main.1833e261.chunk.css",
     "static/js/main.d24b76bc.chunk.js"
