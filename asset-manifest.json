@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.17cedad2.chunk.css",
-    "main.js": "./static/js/main.3f6b7a6c.chunk.js",
-    "main.js.map": "./static/js/main.3f6b7a6c.chunk.js.map",
+    "main.css": "./static/css/main.7d457bc8.chunk.css",
+    "main.js": "./static/js/main.fecfb076.chunk.js",
+    "main.js.map": "./static/js/main.fecfb076.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.449e3264.js",
     "runtime-main.js.map": "./static/js/runtime-main.449e3264.js.map",
     "static/js/2.be841329.chunk.js": "./static/js/2.be841329.chunk.js",
@@ -10,25 +10,21 @@
     "static/js/3.7b15668d.chunk.js": "./static/js/3.7b15668d.chunk.js",
     "static/js/3.7b15668d.chunk.js.map": "./static/js/3.7b15668d.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.17cedad2.chunk.css.map": "./static/css/main.17cedad2.chunk.css.map",
+    "static/css/main.7d457bc8.chunk.css.map": "./static/css/main.7d457bc8.chunk.css.map",
     "static/js/2.be841329.chunk.js.LICENSE.txt": "./static/js/2.be841329.chunk.js.LICENSE.txt",
-    "static/media/Layer 14.5aa92c10.png": "./static/media/Layer 14.5aa92c10.png",
-    "static/media/Layer 15.04feb300.png": "./static/media/Layer 15.04feb300.png",
-    "static/media/Layer 16.822c2c39.png": "./static/media/Layer 16.822c2c39.png",
-    "static/media/Layer 18.0d986413.png": "./static/media/Layer 18.0d986413.png",
     "static/media/box.312e752e.mp4": "./static/media/box.312e752e.mp4",
-    "static/media/box_img1.6ff7a88e.jpg": "./static/media/box_img1.6ff7a88e.jpg",
-    "static/media/box_img3.704ce198.jpg": "./static/media/box_img3.704ce198.jpg",
-    "static/media/box_img4.39d2cd8e.jpg": "./static/media/box_img4.39d2cd8e.jpg",
+    "static/media/box_img1.90f8a75a.jpg": "./static/media/box_img1.90f8a75a.jpg",
+    "static/media/box_img3.afa8b480.jpg": "./static/media/box_img3.afa8b480.jpg",
+    "static/media/box_img4.e13999bb.jpg": "./static/media/box_img4.e13999bb.jpg",
     "static/media/clouds donuts starry night.93169a09.webp": "./static/media/clouds donuts starry night.93169a09.webp",
-    "static/media/gif.8f6683ae.gif": "./static/media/gif.8f6683ae.gif",
-    "static/media/style.css": "./static/media/lines.52856c01.gif",
-    "static/media/logo-dark.864f1161.png": "./static/media/logo-dark.864f1161.png"
+    "static/media/gif.19e0fce6.gif": "./static/media/gif.19e0fce6.gif",
+    "static/media/style.css": "./static/media/hero_bg.96c9f778.jpg",
+    "static/media/logo-dark.c128b9db.png": "./static/media/logo-dark.c128b9db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.449e3264.js",
     "static/js/2.be841329.chunk.js",
-    "static/css/main.17cedad2.chunk.css",
-    "static/js/main.3f6b7a6c.chunk.js"
+    "static/css/main.7d457bc8.chunk.css",
+    "static/js/main.fecfb076.chunk.js"
   ]
 }
